@@ -1,0 +1,24 @@
+body{
+    background-color: bisque;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.jasper{
+    text-transform: capitalize;
+}
+.react {
+    color: red
+}
+#react {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+.good{
+    display: flex;
+    flex-direction: column;
+}
